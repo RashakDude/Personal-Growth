@@ -129,4 +129,61 @@ Nothing can catch you off guard if you have already imagined and prepared for it
 
 <hr>
 
+### :memo: 6 Tips to get you into deep work
 
+<ul>
+<li> Use noise cancelling earbuds
+<li> Put your phone in another room
+<li> Block off 2 hours
+<li> Use website/app blockers
+<li> Focus on high priority task only at once
+<li> Listen to Hans Zimmer
+</ul>
+
+<hr>
+
+### :magic_wand: 6 Rules to be Charismatic
+
+<ol> 
+
+<li> Make People Feel Important (SHR method)
+<p> Seen - Give eye contact. Offer a special compliment <br>
+Heard - Ask good questions. Be interested, not interesting <br>
+Remembered - Follow up. Remember names. Recall something you discussed </p>
+
+<li> Pause Before Speaking (30% rule)
+<p> When speaking, we allow ourselves only 30% of the time a listener would give us to fill a pause without it feeling awkward <br>
+You have more time to reply than you think. Wait for 2 seconds <br>
+Pause in Speaking + Eye Contact = Confidence </p>
+
+<li> Hone Your Body Language (7-38-55 Rule)
+<p> People will like/dislike your communication based on:
+<ul> 
+<li> 7% words
+<li> 38% tonality and face
+<li> 55% body language
+</ul>
+<br> Stand up straight, pull your shoulders back, make eye contact, smile, give a firm handshake. </p>
+
+<li> Use Humour
+<p> A study of the top TED Talks found humor as a key ingredient <br>
+People are drawn to those who make them feel good (aided by humor) <br>
+3 proven tips to be funnier:
+<ul>
+<li> Give a surprising answer
+<li> Care more than someone predicted
+<li> Be more specific than necessary
+</ul></p>
+
+<li> Don't Complaint or Gossip. Ever.
+<p> Nobody likes to hear complaning. Respectfully, standing up for yourself is different. <br>
+Seperately, when you talk bad about others, people wonder if you talk bad about them too. </p>
+
+<li> The Shadow Rule
+<p> You don't need to hide parts of yourself to be accepted by others. <br>
+Think about your favourite movie or TV character. They have atleast one weakness. <br>
+You wouldn't like them as much otherwise. Imperfection is humanizing. <br>
+Own your flaws, be magnetic. </p>
+
+</ol>
+<hr>
