@@ -187,3 +187,90 @@ Own your flaws, be magnetic. </p>
 
 </ol>
 <hr>
+
+### :electric_plug: 10 incredible free Chrome Extensions
+
+<ul> 
+  <li> Summari
+  <li> Wordtune
+  <li> Start.me
+  <li> Raindrop
+  <li> News Feed Eradicator
+  <li> Forest
+  <li> Check Plus
+  <li> Momentum
+  <li> Screenity
+  <li> Mote
+</ul>
+<hr>
+
+### :potable_water: 6 Benefits of drinking water
+
+<ol> 
+  <li> Build muscle
+    <p> Water is crucial for building muscle because it: 
+      <ul>
+        <li> Keeps muscles hydrated and flexible
+        <li> Delivers nutrients that promote muscle growth
+      </ul>
+    </p>
+  <li> Improve your skin
+    <p> Don't underestimate the power of water. It helps to: 
+      <ul> 
+        <li> reduce pimples
+        <li> prevent wrinkles
+        <li> promote elasticity
+      </ul>
+    </p>
+  <li> Boost your brain power
+    <p> Most people don't know, dehydration causes brain fog. Don't reach for another coffee. Stay hydrated so you can focus 10x better. </p> 
+  <li> Lose weight
+    <p> Drinking water makes you feel full, so you need to eat less. <br>
+      It's also proven to increase energy and metabolism. So, you can burn more calories throughout the day. </p> 
+  <li> Hangover cure
+    <p> Alcohol dehydrates you. So combat its effect with water. <br>
+      Pro tip: Drink 1 glass of water in between each alcoholic drink. You may even prevent a hangover entirely. </p>
+  <li> Treat headaches
+    <p> Headaches are the most common symptom of dehydration. Drink more water to treat headache in a flash. </p> 
+</ol>
+<hr>
+
+### :brain: 10 Ideas that will stimulate your thinking
+
+<ol> 
+  <li> Agenda Setting Theory
+    <p> Mainstream media sets the agenda of public disclosure. The more attention the media gives to certain issues, the more likely the public is to consider them important. <br>
+      Don't pay blind attention to what's on the "agenda" and forget what's not being said. </p>
+  <li> The Ergodic Switch
+    <p> In an ergodic scenario, the average outcome of the group is same as the average outcome of the individual over time. <br>
+      We are taught to think that most systems are ergodic. In reality, most human systems are non-ergodic. Don't blindly believe in averages. <p> 
+  <li> Convexity
+    <p> Convexity payoffs have larger gains than the pains - the potential upside is greater than the downside. <br>
+      The majority seek to cap downside by entering conformist professionals, but in doing so cap their upside too. <br>
+      Lesson: Incorporate some calculated risks in your plan </p>
+  <li> The Map is Not the Territory
+    <p> No model is a perfect representation of the reality, but some are still useful. <br>
+      The more complex the system or territory, the greater the chance of inconsistencies.  <br>
+      You don't truly understand a model or a map, unless you know its limitations. </p>
+  <li> Wisdom of the Crowd
+    <p> The intelligence of a diverse group is superior to that of any of the individuals within the group. <br>
+      When possible, seek multiple diverse and alternative perspectives for better solutions. </p>
+  <li> The Paradox of Abundance
+    <p> The average quality of information is decreasing over time. But the highest quality stuff gets better and better. <br>
+      Abundance is simultaneously bad for the 'median' consumer but good for the 'conscious, discerning' consumer who filters out noise. </p>
+  <li> Google Scholar Effect
+    <p> Highly cited papers appear in top positions and gain even more citations. <br>
+      New papers struggle to appear in the top positions and therefore get less attention, regardless of their contribution to their fields. <p>
+  <li> Curse of Knowledge
+    <p> Once we know something, we assume everyone else knows about it. <br>
+      It's why some experts can't explain their field in simple terms and people don't share knowledge that could benefit others. <br>
+      Lesson: There are always people to teach and people to learn from. </p>
+  <li> Predictive Coding
+    <p> "You experience in some sense, the world that you expect to experience" - Andy Clark <br>
+      Our perception replaces the unknown with the expected to help us organise our experience of the world effeciently. </p>
+  <li> Locus of control
+    <p> Internal: You believe that outcomes are within your control. <br>
+      External: You believe that outcomes are beyond your control. <br>
+      The more control you believe you have, the less likely you are to conform to the status quo. </p>
+</ol>
+<hr>
